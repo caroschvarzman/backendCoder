@@ -3,10 +3,9 @@
   "version": "0.0.1",
   "description": "A simple Node app built on fastify, instantly up and running. Built to be remixed on Glitch.com.",
   "main": "server.js",
-    "scripts": {
+  "scripts": {
     "start": "node server.js"
   },
-  
   "dependencies": {
     "fastify": "^3.28.0",
     "fastify-formbody": "^5.2.0",
@@ -25,7 +24,7 @@
     "node",
     "glitch",
     "express"
-  ]
-, 
-
-  "type": "module"}
+  ],
+  "devDependencies": {},
+  "author": ""
+}

@@ -1,6 +1,5 @@
 const { Console } = require('console');
 const fs =require("fs")
-const { json } = require('stream/consumers');
 
 module.exports = class  Contenedor 
 {
