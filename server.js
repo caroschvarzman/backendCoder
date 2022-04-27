@@ -1,4 +1,4 @@
-const Contenedor = require ('./contenedorArchivo.js');
+const Contenedor = require ('./contenedorArchivo.js')
 const express = require ('express')
 const PORT = 8080 //se usa este generalmente
 const app = express()
